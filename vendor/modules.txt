@@ -1,0 +1,15 @@
+# github.com/golang/snappy v0.0.1
+github.com/golang/snappy
+# github.com/nsqio/go-nsq v1.0.8
+## explicit
+github.com/nsqio/go-nsq
+# github.com/opentracing/opentracing-go v1.2.0
+## explicit
+# github.com/pkg/errors v0.9.1
+## explicit
+# github.com/uber/jaeger-client-go v2.25.0+incompatible
+## explicit
+# github.com/uber/jaeger-lib v2.2.0+incompatible
+## explicit
+# go.uber.org/atomic v1.6.0
+## explicit
